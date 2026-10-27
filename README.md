@@ -103,3 +103,5 @@ In MySQL Workbench, run:
 ```sql
 SELECT * FROM student_db.student;
 ```
+
+![img.png](img.png)
